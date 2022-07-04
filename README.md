@@ -4,12 +4,12 @@
 ## How to reach me
 *You can reach me below.*
 <br/>
+[linkedin]:https://www.linkedin.com/in/tunahandemirkol/
+[instagram]:https://www.instagram.com/tunahandemirkol/
 <br/>
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
 <br/>
-[linkedin]:https://www.linkedin.com/in/tunahandemirkol/
-[instagram]:https://www.instagram.com/tunahandemirkol/
 <br/>
 ## I’m currently working on <br>
 • Libft <br>
