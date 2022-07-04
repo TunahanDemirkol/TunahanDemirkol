@@ -1,13 +1,6 @@
 ## Hi, I'm Tunahan Demirkol
 *I live in Istanbul, Turkey.*
-</br>
-## How to reach me
-*You can reach me below.*
 <br/>
-[linkedin]:https://www.linkedin.com/in/tunahandemirkol/
-<br/>
-<br/>
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
 <br/>
 ## I’m currently working on <br>
 • Libft <br>
