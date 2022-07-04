@@ -1,16 +1,24 @@
-### Hi there 👋
-
-<!--
-**TunahanDemirkol/TunahanDemirkol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hi, I'm Tunahan Demirkol
+*I live in Istanbul, Turkey.*
+</br>
+## How to reach me
+*You can reach me below.*
+<br/>
+<br/>
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sololearn.svg" align="left" />][sololearn]
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/hackerrank.svg" align="left" />][hackerrank]
+[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" align="left" />][stackoverflow]
+<br/>
+[linkedin]:https://www.linkedin.com/in/tunahandemirkol/
+[instagram]:https://www.instagram.com/tunahandemirkol/
+<br/>
+## I’m currently working on <br>
+• Libft <br>
+## My Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunahanDemirkol&theme=radical)
+## Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanDemirkol&layout=compact)](https://github.com/TunahanDemirkol)
+## Views
+![](https://komarev.com/ghpvc/?username=TunahanDemirkol&color=blue)
