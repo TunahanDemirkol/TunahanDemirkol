@@ -7,9 +7,6 @@
 <br/>
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/linkedin.svg" align="left" />][linkedin]
 [<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/instagram.svg" align="left" />][instagram]
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/sololearn.svg" align="left" />][sololearn]
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/hackerrank.svg" align="left" />][hackerrank]
-[<img width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/stackoverflow.svg" align="left" />][stackoverflow]
 <br/>
 [linkedin]:https://www.linkedin.com/in/tunahandemirkol/
 [instagram]:https://www.instagram.com/tunahandemirkol/
