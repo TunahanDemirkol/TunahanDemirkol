@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="846" height="476" src="https://user-images.githubusercontent.com/89604225/177143227-7612bd55-982a-4931-ab32-824d9144b490.gif">
+  <img width="846" height="476" src="https://user-images.githubusercontent.com/89604225/177144633-9acc7c8c-011d-4561-9ce8-ad0d68fb67da.gif">
 </p>
 ## Hi, I'm Tunahan Demirkol
 *I live in Istanbul, Turkey.*
