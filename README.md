@@ -3,8 +3,7 @@
 </p>
 
 ## Hi, I'm Tunahan Demirkol
-*I am an Electrical and Electronics Engineer but i am interested in data science, machine learning and artificial intelligence. I live in Istanbul, Turkey.
-Welcome to my software world.
+I am an Electrical and Electronics Engineer but i am interested in data science, machine learning and artificial intelligence. I live in Istanbul, Turkey. Welcome to my software world.
 <br/>
 
 ## I’m currently working on <br>
