@@ -3,13 +3,14 @@
 </p>
 
 ## Hi, I'm Tunahan Demirkol
-*I live in Istanbul, Turkey.*
+*I am an Electrical and Electronics Engineer but i am interested in data science, machine learning and artificial intelligence. I live in Istanbul, Turkey.
+Welcome to my software world.
 <br/>
-<br/>
+
 ## I’m currently working on <br>
-• [Data Science](https://github.com/TunahanDemirkol/House_Price-With-Streamlit)
-<br/>
-• Libft <br/>
+• [Data Science](https://github.com/TunahanDemirkol/House_Price-With-Streamlit)<br/>
+• [Data Science-End_to_End](https://github.com/TunahanDemirkol/Medical_Cost_Analysis_Clover_Of_AI)<br/>
+• [Deep Learning-Transfer_Learning](https://github.com/TunahanDemirkol/Transfer_Learning_Clover_Of_AI)<br/>
 ## My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunahanDemirkol&theme=radical)
 ## Langs
