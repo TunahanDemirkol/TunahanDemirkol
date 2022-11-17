@@ -10,6 +10,8 @@ Hi, I'm Tunahan Demirkol. I am an Electrical and Electronics Engineer but i am i
 • [Data Science](https://github.com/TunahanDemirkol/House_Price-With-Streamlit)<br/>
 • [Data Science-End_to_End](https://github.com/TunahanDemirkol/Medical_Cost_Analysis_Clover_Of_AI)<br/>
 • [Deep Learning-Transfer_Learning](https://github.com/TunahanDemirkol/Transfer_Learning_Clover_Of_AI)<br/>
+• [PostgreSQL](https://github.com/TunahanDemirkol/PostgreSQL)<br/>
+
 ## My Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TunahanDemirkol&theme=radical)
 ## Langs
